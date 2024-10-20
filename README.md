@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Niru-Prajapati
-- 👀 I’m interested in Website and App development
+- 👋 Hi, I’m Niru
+- 👀 I’m interested in Websites and App development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me prajneeru@gmail.com
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
