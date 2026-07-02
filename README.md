@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niru
 - 👀 I’m interested in Websites and App development
-- 🌱 I’m currently learning Flutter(Dart)
-- 💞️ I’m looking to collaborate on Mobile App Development
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on Websites Development
 - 📫 How to reach me prajneeru@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
